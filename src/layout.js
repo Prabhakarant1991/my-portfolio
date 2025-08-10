@@ -7,7 +7,7 @@ const titilliumWeb = Titillium_Web({
 });
 
 export const metadata = {
-  title: "Prabhaaran - Portfolio",
+  title: "Prabhakaran - Portfolio",
   description: "Full Stack Developer",
 };
 

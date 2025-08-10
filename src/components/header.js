@@ -201,28 +201,28 @@ export default function Header() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8, delay: 0.6 }}
           >
-            <div className="col-md-6 mb-5">
-              <div className="d-flex justify-content-center mt-xxl-0">
-                <motion.div
-                  className="profile background-gradient"
-                  whileHover={{ scale: 1.02 }}
-                  transition={{ duration: 0.3 }}
-                ><img
-                    src={profilePhoto}
-                    alt="Profile"
-                    className="img-fluid"
-                    style={{
-                      maxWidth: "300px",
-                      height: "auto",
-                      borderRadius: "12px",
-                      boxShadow: "0 4px 20px rgba(0,0,0,0.1)"
-                    }}
-                  />
-
-                </motion.div>
-              </div>
+            <div className="d-flex justify-content-center justify-content-md-end mt-xxl-0">
+              <motion.div
+                className="profile background-gradient"
+                whileHover={{ scale: 1.02 }}
+                transition={{ duration: 0.3 }}
+                style={{ marginRight: "30px" }} // <-- This slightly pushes it to the right
+              >
+                <img
+                  src={profilePhoto}
+                  alt="Profile"
+                  className="img-fluid"
+                  style={{
+                    maxWidth: "300px",
+                    height: "auto",
+                    borderRadius: "12px",
+                    boxShadow: "0 4px 20px rgba(0,0,0,0.1)",
+                  }}
+                />
+              </motion.div>
             </div>
           </motion.div>
+
         </div>
       </div>
     </header>
