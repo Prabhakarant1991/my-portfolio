@@ -1,8 +1,5 @@
-// src/App.js
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-
-
+"use client";
+import { useEffect } from "react";
 import Navbar from "./components/navbar";
 import Header from "./components/header";
 import Experience from "./components/experience";
@@ -11,7 +8,11 @@ import TechnicalSkills from "./components/technical-skills";
 import Certifications from "./components/certifications";
 import Projects from "./components/projects";
 
-function App() {
+export default function Home() {
+  useEffect(() => {
+    require("bootstrap/dist/js/bootstrap.bundle.min.js");
+  }, []);
+
   return (
     <main className="flex-shrink-0">
       <Navbar />
@@ -29,7 +30,7 @@ function App() {
             <hr className="mt-4 pt-4" />
             <Educations />
             <hr className="mt-4 pt-4" />
-            {<Certifications /> }
+            {/* <Certifications /> */}
             <hr className="mt-4 pt-4" />
           </div>
         </div>
@@ -37,5 +38,3 @@ function App() {
     </main>
   );
 }
-
-export default App;

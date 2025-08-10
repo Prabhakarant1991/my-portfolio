@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Senior Developer — Knila IT Solution Pvt Ltd - Coimbatore",
+    "start": "2024-03-06",
+    "end": "",
+    "present": true,
+    "link": "https://www.knila.com/",
+    "description": [
+      "Working on a US-based project (Deluex) focused on developing and maintaining scalable enterprise applications.",
+      "Utilizing Angular for dynamic UI components and .NET Core for building robust backend APIs integrated with MS SQL.",
+      "Actively participating in Agile ceremonies including daily stand-up meetings and monthly sprint planning (BRP) sessions.",
+      "Using Jira for task management and sprint tracking, and Postman for API testing and validation.",
+      "Collaborating with cross-functional teams to continuously update and enhance project components based on CMD updates and client feedback."
+    ],
+    "skills": [
+      "Angular",
+      ".NET Core",
+      "MS SQL",
+      "Jira",
+      "Postman",
+      "Agile Development",
+      "Sprint Planning",
+      "Daily Stand-up Meetings",
+      "CMD Updates",
+      "Enterprise Application Development"
+    ]
+  },
+  {
+    "title": "Senior Developer — Madrasilks India Pvt Ltd - Chennai",
+    "start": "2021-07-01",
+    "end": "2024-02-29",
+    "present": false,
+    "link": "https://www.madrasilks.com/",
+    "description": [
+      "Led the development of scalable web applications to streamline internal operations and improve customer engagement.",
+      "Developed dynamic and responsive front-end interfaces using Angular and AngularJS.",
+      "Built robust back-end APIs and business logic using .NET Core and integrated with MSSQL databases.",
+      "Collaborated with cross-functional teams to deliver solutions aligned with business goals.",
+      "Utilized GitHub for version control and CI/CD processes to maintain code quality and deployment efficiency."
+    ],
+    "skills": [
+      "Angular",
+      "AngularJS",
+      ".NET Core",
+      "MSSQL",
+      "GitHub",
+      "Bootstrap",
+      "JavaScript",
+      "jQuery",
+      "HTML5",
+      "HTML",
+      "Cascading Style Sheets (CSS)"
+    ]
+  },
+  {
+    "title": "Support Enginer — SiliconInfotech - Tirupur.",
+    "start": "2018-09-01",
+    "end": "2021-06-30",
+    "present": false,
+    "link": "",
+    "description": [
+      "Handled server deployment, network troubleshooting, and system performance optimization to ensure 24/7 uptime.",
+      "Configured and maintained switches, routers, and firewalls for secure and efficient network operations."
+    ],
+    "skills": [
+      "Windows Server Administration",
+      "Linux Server Management",
+      "Network Configuration",
+      "Firewall Management",
+      "VPN Setup and Maintenance",
+      "Switching & Routing",
+      "Network Troubleshooting",
+      "Server Deployment",
+      "System Performance Monitoring"
+    ]
+  },
+  {
+    "title": "Executive — The Chennai Silks - Tirupur.",
+    "start": "2014-08-01",
+    "end": "2018-08-31",
+    "present": false,
+    "link": "www.thescmsilk.in",
+    "description": [
+      "Handled server deployment, network troubleshooting, and system performance optimization to ensure 24/7 uptime.",
+      "Configured and maintained switches, routers, and firewalls for secure and efficient network operations."
+    ],
+    "skills": [
+      "Windows Server Administration",
+      "Linux Server Management",
+      "Network Configuration",
+      "Firewall Management",
+      "VPN Setup and Maintenance",
+      "Switching & Routing",
+      "Network Troubleshooting",
+      "Server Deployment",
+      "System Performance Monitoring"
+    ]
+  }
+]
