@@ -5,25 +5,29 @@
     "end": "",
     "present": true,
     "link": "https://www.knila.com/",
+    "projecttitle": "Deluex Payment Module",
     "description": [
-      "Working on a US-based project (Deluex) focused on developing and maintaining scalable enterprise applications.",
-      "Utilizing Angular for dynamic UI components and .NET Core for building robust backend APIs integrated with MS SQL.",
-      "Actively participating in Agile ceremonies including daily stand-up meetings and monthly sprint planning (BRP) sessions.",
-      "Using Jira for task management and sprint tracking, and Postman for API testing and validation.",
-      "Collaborating with cross-functional teams to continuously update and enhance project components based on CMD updates and client feedback."
+      "The Deluex Payment System is a secure and scalable payment management module designed to handle financial transactions, billing, and payment tracking across multiple platforms. Built using modern technologies like Angular and .NET Core, it enables seamless payment processing for both one-time and recurring transactions.This module supports various modes of payment such as credit/debit cards, bank transfers, and digital wallets, with detailed audit trails and reporting features for financial compliance and transparency."
     ],
     "skills": [
       "Angular",
       ".NET Core",
+      "GraphQL",
       "MS SQL",
       "Jira",
       "Postman",
       "Agile Development",
       "Sprint Planning",
       "Daily Stand-up Meetings",
-      "CMD Updates",
       "Enterprise Application Development"
-    ]
+    ],
+    "frontend": "Angular | React",
+    "backend": "NET Core (Gateway API)",
+    "database": "Microsoft SQL Server",
+    "architecture": "Microservices API, Dapper ORM",
+    "deployment": "IIS / Cloud-based",
+    "versionControl": "Bitbucket",
+    "security": "JWT Authentication, Okta, SSL/TLS Encryption"
   },
   {
     "title": "Senior Developer — Madrasilks India Pvt Ltd - Chennai",
@@ -31,12 +35,9 @@
     "end": "2024-02-29",
     "present": false,
     "link": "https://www.madrasilks.com/",
+    "projecttitle": "Human Resource Management System (HRMS)",
     "description": [
-      "Led the development of scalable web applications to streamline internal operations and improve customer engagement.",
-      "Developed dynamic and responsive front-end interfaces using Angular and AngularJS.",
-      "Built robust back-end APIs and business logic using .NET Core and integrated with MSSQL databases.",
-      "Collaborated with cross-functional teams to deliver solutions aligned with business goals.",
-      "Utilized GitHub for version control and CI/CD processes to maintain code quality and deployment efficiency."
+      "The HRMS Application is a comprehensive web-based solution developed to streamline and automate various Human Resource (HR) functions within an organization. It offers a centralized platform to manage employee records, attendance, leave management, payroll processing, and more.Designed with scalability and performance in mind, the system leverages Angular for a responsive and dynamic frontend experience, .NET Core Web API for robust backend logic, and MS SQL Server for secure and efficient data storage."
     ],
     "skills": [
       "Angular",
@@ -50,7 +51,14 @@
       "HTML5",
       "HTML",
       "Cascading Style Sheets (CSS)"
-    ]
+    ],
+    "frontend": "Angular | AngularJS",
+    "backend": "NET Core (Web API)",
+    "database": "Microsoft SQL Server",
+    "architecture": "RESTful API, Dapper ORM",
+    "deployment": "IIS / Cloud-based",
+    "versionControl": "GitHub",
+    "security": "JWT Authentication"
   },
   {
     "title": "Support Enginer — SiliconInfotech - Tirupur.",
@@ -86,13 +94,11 @@
     ],
     "skills": [
       "Windows Server Administration",
-      "Linux Server Management",
       "Network Configuration",
       "Firewall Management",
       "VPN Setup and Maintenance",
       "Switching & Routing",
       "Network Troubleshooting",
-      "Server Deployment",
       "System Performance Monitoring"
     ]
   }

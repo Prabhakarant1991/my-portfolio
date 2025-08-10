@@ -69,16 +69,61 @@ export default function Projects() {
                     dateFormat(project.end)
                   )}
                 </div>
+                {project.projecttitle && (
+                  <p className="small mb-3">
+                    <strong>📌 Project Title :</strong> {project.projecttitle}
+                  </p>
+                )}
 
-                <ul className="list-group list-group-flush mb-3">
+                <div className="mb-3">
                   <ProjectDescription data={project.description} />
-                </ul>
+                </div>
+
+
+                {project.frontend && (
+                  <p className="small mb-1">
+                    <strong>Frontend :</strong> {project.frontend}
+                  </p>
+                )}
+
+                {project.backend && (
+                  <p className="small mb-1">
+                    <strong>Backend :</strong> {project.backend}
+                  </p>
+                )}
+
+                {project.database && (
+                  <p className="small mb-1">
+                    <strong>Database :</strong> {project.database}
+                  </p>
+                )}
+
+                {project.deployment && (
+                  <p className="small mb-1">
+                    <strong>Deployment:</strong> {project.deployment}
+                  </p>
+                )}
+                {project.architecture && (
+                  <p className="small mb-1">
+                    <strong>Architecture :</strong> {project.architecture}
+                  </p>
+                )}
+                {project.versionControl && (
+                  <p className="small mb-1">
+                    <strong>VersionControl :</strong> {project.versionControl}
+                  </p>
+                )}
+                {project.security && (
+                  <p className="small mb-3">
+                    <strong>Security :</strong> {project.security}
+                  </p>
+                )}
+                
 
                 <div className="d-flex flex-wrap mb-3 gap-2 small align-items-center">
                   <FaTools className="me-1 text-muted" />
                   <ProjectSkills data={project.skills} />
                 </div>
-
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
