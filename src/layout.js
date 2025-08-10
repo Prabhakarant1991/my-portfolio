@@ -7,8 +7,8 @@ const titilliumWeb = Titillium_Web({
 });
 
 export const metadata = {
-  title: "Shakir Ali - Portfolio",
-  description: "Technical Lead & Full Stack Developer",
+  title: "Prabhaaran - Portfolio",
+  description: "Full Stack Developer",
 };
 
 export default function RootLayout({ children }) {
