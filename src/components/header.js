@@ -95,11 +95,11 @@ export default function Header() {
               <Typewriter
                 options={{
                   strings: [
-                    "Full Stack Developer 💻",
-                    "Front-End Developer 💻",
-                    "Back-End Developer 💻",
-                    "Server Engineer  💻",
-                    "Network Engineer  🌐",
+                    "Full Stack Developer 🖥️",
+                    "Front-End Developer 🎨",
+                    "Back-End Developer ⚙️",
+                    "Server Engineer 🗄️",
+                    "Network Engineer 🌐",
                   ],
                   autoStart: true,
                   loop: true,
