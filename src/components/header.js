@@ -98,6 +98,8 @@ export default function Header() {
                     "Full Stack Developer 💻",
                     "Front-End Developer 💻",
                     "Back-End Developer 💻",
+                    "Server Engineer  💻",
+                    "Network Engineer  🌐",
                   ],
                   autoStart: true,
                   loop: true,
@@ -116,7 +118,7 @@ export default function Header() {
             >
               Over 11+ years of total experience, including{" "}
               <span className="fw-bolder heading-gradient-we">6.8 years</span> in{" "}
-              <span className="fw-bolder heading-gradient-we">Server & Networking</span>{" "}
+              <span className="fw-bolder heading-gradient-we">Server & Networking Engineer</span>{" "}
               and{" "}
               <span className="fw-bolder heading-gradient-we">4+ years</span> in{" "}
               <span className="fw-bolder heading-gradient-we">
