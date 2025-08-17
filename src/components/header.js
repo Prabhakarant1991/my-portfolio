@@ -120,7 +120,7 @@ export default function Header() {
               and{" "}
               <span className="fw-bolder heading-gradient-we">4+ years</span> in{" "}
               <span className="fw-bolder heading-gradient-we">
-                Web Development (Angular | React | .NET Core)
+                Web Development (Angular | React Js | .NET Core)
               </span>
               . Known for strong technical problem-solving skills.
             </motion.div>

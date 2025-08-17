@@ -5,9 +5,9 @@
     "end": "",
     "present": true,
     "link": "https://www.knila.com/",
-    "projecttitle": "Deluex Payment Module",
+    "projecttitle": "Merchant Payment Module",
     "description": [
-      "The Deluex Payment System is a secure and scalable payment management module designed to handle financial transactions, billing, and payment tracking across multiple platforms. Built using modern technologies like Angular and .NET Core, it enables seamless payment processing for both one-time and recurring transactions.This module supports various modes of payment such as credit/debit cards, bank transfers, and digital wallets, with detailed audit trails and reporting features for financial compliance and transparency."
+      "The Merchant Payment System is a secure and scalable payment management module designed to handle financial transactions, billing, and payment tracking across multiple platforms. Built using modern technologies like Angular and .NET Core, it enables seamless payment processing for both one-time and recurring transactions.This module supports various modes of payment such as credit/debit cards, bank transfers, and digital wallets, with detailed audit trails and reporting features for financial compliance and transparency."
     ],
     "skills": [
       "Angular",
